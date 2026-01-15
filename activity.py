@@ -44,7 +44,7 @@ def seconds_to_minutes(seconds):
     Return minutes as a float.
     Example: 90 seconds -> 1.5 minutes
     """
-    return seconds_to_minutes(90)
+    return seconds / 60
 # ============================================================
 # PART B: Positional vs Keyword + Defaults
 # ============================================================
