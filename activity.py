@@ -37,7 +37,7 @@ def is_even(n):
     return n % 2 == 0
 
 def average(a, b):
-   return average([15, 30])
+   return 10 + 20 / 2
 def seconds_to_minutes(seconds):
     """
     TODO:
