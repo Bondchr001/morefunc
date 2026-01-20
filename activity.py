@@ -168,5 +168,5 @@ assert copy_list == ["apple", "banana"]  # new list returned
 cart = [("Soda", 2, 1.5), ("Chips", 1, 2.25)]
 expected = "Soda x2 = $3.00\nChips x1 = $2.25\nTOTAL = $5.25"
 assert build_receipt(cart) == expected
-
+# cool
 print("When all asserts pass: push to GitHub, submit to Canvas. ✅")
